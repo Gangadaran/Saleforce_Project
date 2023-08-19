@@ -13,7 +13,7 @@ import pojo.GenerateTokenBear;
 import pojo.GetId;
 
 
-public class GenerateToken {
+public class GenerateTokenAndCreateLeadAndGetDeatails {
 	public  String access_token;
 	public String ID; 
 	
